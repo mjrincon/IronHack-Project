@@ -5,6 +5,8 @@
  *= require_self
  *= require_tree .*/
 
+
+
 @-webkit-keyframes fade-in {
   0%   { opacity: 0; }
   50%   { opacity: 0; }
@@ -59,6 +61,11 @@ li {
 
   font-family: 'Raleway', sans-serif!important;
 
+}
+
+h4 {
+
+  font-family: 'Raleway', sans-serif!important;
 }
 
 .navbar-header {
